@@ -1,0 +1,30 @@
+*slick-scroll.txt* Smooth scroll
+
+Contents *slick-scroll-contents*
+
+  INTRODUCTION          |slick-scroll-introduction|
+  KEY MAPPINGS          |slick-scroll-mappings|
+
+==============================================================================
+INTRODUCTION                                    *slick-scroll-introduction*
+
+vim-slick-scroll is a plug-in that smooths vim's scrolling.
+
+==============================================================================
+KEY MAPPINGS                                    *slick-scroll-mappings*
+
+This plugin replaces the existing key mappings.
+
+<c-d>
+        Scroll down half screen
+
+<c-u>
+        Scroll up half screen
+
+<c-f>
+        Scroll down one screen
+
+<c-b>
+        Scroll up one screen
+
+vim:tw=78:ts=8:ft=help:et:
